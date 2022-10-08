@@ -98,9 +98,9 @@
     "sideBarSectionHeader.background": "#212127",
     "sideBarSectionHeader.foreground": "#b5b5b5",
     "sideBarSectionHeader.border": "#101014",
-    "sideBar.dropBackground": "#1e202e",
+    "sideBar.dropBackground": "#2a2b36",
 
-    "list.dropBackground": "#1e202e",
+    "list.dropBackground": "#2a2b36",
     "list.deemphasizedForeground": "#7e8093",
     "list.activeSelectionBackground": "#2c2e38",
 
@@ -163,11 +163,11 @@
     "editor.selectionHighlightBackground": "#515c7e44",
 
     "editorCursor.foreground": "#c0caf5",
-    "editorIndentGuide.background": "#1e202e",
+    "editorIndentGuide.background": "#2a2b36",
     "editorIndentGuide.activeBackground": "#43475b",
     "editorLineNumber.foreground": "#43475b",
     "editorLineNumber.activeForeground": "#737aa2",
-    "editor.lineHighlightBackground": "#1e202e",
+    "editor.lineHighlightBackground": "#2a2b36",
     "editorWhitespace.foreground": "#43475b",
 
     "editorMarkerNavigation.background": "#212127",
@@ -208,7 +208,7 @@
     "minimapGutter.deletedBackground": "#944449",
 
     "editorGroup.border": "#101014",
-    "editorGroup.dropBackground": "#1e202e",
+    "editorGroup.dropBackground": "#2a2b36",
     "editorGroupHeader.tabsBorder": "#101014",
     "editorGroupHeader.tabsBackground": "#212127",
     "editorGroupHeader.noTabsBackground": "#212127",
@@ -400,12 +400,12 @@
     "notificationsInfoIcon.foreground": "#0da0ba",
 
     "menubar.selectionForeground": "#b5b5b5",
-    "menubar.selectionBackground": "#1e202e",
+    "menubar.selectionBackground": "#2a2b36",
     "menubar.selectionBorder": "#1b1e2e",
     "menu.foreground": "#7e8093",
     "menu.background": "#212127",
     "menu.selectionForeground": "#b5b5b5",
-    "menu.selectionBackground": "#1e202e",
+    "menu.selectionBackground": "#2a2b36",
     "menu.separatorBackground": "#101014",
     "menu.border": "#101014"
   },
