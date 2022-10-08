@@ -1,0 +1,49 @@
+{
+  "name": "tokyo-midnight",
+  "displayName": "Tokyo Midnight",
+  "description": "Tokyo Night, pero con impacto más claro.",
+  "version": "0.1.0",
+  "publisher": "nacholaciar",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "contrast",
+    "dark",
+    "light",
+    "tokyo",
+    "clean"
+  ],
+  "icon": "icon.png",
+  "homepage": "https://github.com/nacholaciar/tokyo-midnight",
+  "repository": {
+    "url": "https://github.com/nacholaciar/tokyo-midnight",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/nacholaciar/tokyo-midnight/issues"
+  },
+  "galleryBanner": {
+    "color": "#1f2335",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.17.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-midnight-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  }
+}
