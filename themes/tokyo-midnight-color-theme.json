@@ -163,11 +163,11 @@
 
     "editorCursor.foreground": "#c0caf5",
     "editorIndentGuide.background": "#2a2b36",
-    "editorIndentGuide.activeBackground": "#43475b",
-    "editorLineNumber.foreground": "#43475b",
-    "editorLineNumber.activeForeground": "#737aa2",
+    "editorIndentGuide.activeBackground": "#444654",
+    "editorLineNumber.foreground": "#444654",
+    "editorLineNumber.activeForeground": "#787d9d",
     "editor.lineHighlightBackground": "#2a2b36",
-    "editorWhitespace.foreground": "#43475b",
+    "editorWhitespace.foreground": "#444654",
 
     "editorMarkerNavigation.background": "#212127",
     "editorHoverWidget.background": "#212127",
@@ -302,7 +302,7 @@
     "textPreformat.foreground": "#9699a8",
     "textBlockQuote.background": "#212127",
     "textCodeBlock.background": "#212127",
-    "textSeparator.foreground": "#43475b",
+    "textSeparator.foreground": "#444654",
 
     "debugExceptionWidget.border": "#963c47",
     "debugExceptionWidget.background": "#1a1a1e",
@@ -334,7 +334,7 @@
     "terminal.foreground": "#7e8093",
     "terminal.selectionBackground": "#515c7e30",
 
-    "terminal.ansiBlack": "#43475b",
+    "terminal.ansiBlack": "#444654",
     "terminal.ansiRed": "#f7768e",
     "terminal.ansiGreen": "#41a6b5",
     "terminal.ansiYellow": "#e0af68",
@@ -342,7 +342,7 @@
     "terminal.ansiMagenta": "#bb9af7",
     "terminal.ansiCyan": "#7dcfff",
     "terminal.ansiWhite": "#7e8093",
-    "terminal.ansiBrightBlack": "#43475b",
+    "terminal.ansiBrightBlack": "#444654",
     "terminal.ansiBrightRed": "#f7768e",
     "terminal.ansiBrightGreen": "#41a6b5",
     "terminal.ansiBrightYellow": "#e0af68",

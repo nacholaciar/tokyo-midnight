@@ -1,5 +1,11 @@
 # Release Notes
 
+## 0.1.7
+
+`2022-10-08`
+
+- update editorLineNumber color
+
 ## 0.1.6
 
 `2022-10-08`
