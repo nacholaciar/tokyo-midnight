@@ -1,5 +1,11 @@
 # Release Notes
 
+## 0.1.9
+
+`2022-10-09`
+
+- gitDecoration new color
+
 ## 0.1.8
 
 `2022-10-09`

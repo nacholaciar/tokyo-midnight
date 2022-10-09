@@ -40,7 +40,7 @@
     "badge.background": "#7e83b230",
     "badge.foreground": "#acb0d0",
     "icon.foreground": "#7e8093",
-    "settings.headerForeground": "#6a85b2",
+    "settings.headerForeground": "#537fc9",
     "window.activeBorder": "#0d0f17",
     "window.inactiveBorder": "#0d0f17",
     "sash.hoverBorder": "#29355a",
@@ -221,7 +221,7 @@
     "editorSuggestWidget.background": "#212127",
     "editorSuggestWidget.border": "#1a1a1e",
     "editorSuggestWidget.selectedBackground": "#20222c",
-    "editorSuggestWidget.highlightForeground": "#6a85b2",
+    "editorSuggestWidget.highlightForeground": "#537fc9",
 
     "editorCodeLens.foreground": "#484f70",
     "editorLightBulb.foreground": "#e0af68",
@@ -297,7 +297,7 @@
     "titleBar.border": "#1a1a1e",
 
     "walkThrough.embeddedEditorBackground": "#212127",
-    "textLink.foreground": "#6a85b2",
+    "textLink.foreground": "#537fc9",
     "textLink.activeForeground": "#7dcfff",
     "textPreformat.foreground": "#9699a8",
     "textBlockQuote.background": "#212127",
@@ -391,7 +391,7 @@
 
     "notificationCenterHeader.background": "#1a1a1e",
     "notifications.background": "#1a1a1e",
-    "notificationLink.foreground": "#6a85b2",
+    "notificationLink.foreground": "#537fc9",
     "notificationsErrorIcon.foreground": "#bb616b",
     "notificationsWarningIcon.foreground": "#bba461",
     "notificationsInfoIcon.foreground": "#0da0ba",
@@ -1106,7 +1106,7 @@
       "name": "Changed",
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#6a85b2"
+        "foreground": "#537fc9"
       }
     },
     {
