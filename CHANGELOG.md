@@ -1,5 +1,11 @@
 # Release Notes
 
+## 0.1.8
+
+`2022-10-09`
+
+- activityBar new color
+
 ## 0.1.7
 
 `2022-10-08`

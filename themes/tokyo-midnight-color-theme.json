@@ -60,7 +60,7 @@
     "button.foreground": "#ffffff",
     "progressBar.background": "#415b9c",
 
-    "input.background": "#1f1f24",
+    "input.background": "#1a1a1e",
     "input.foreground": "#b5b5b5",
     "input.border": "#0f0f14",
     "input.placeholderForeground": "#7e80938A",
@@ -78,10 +78,10 @@
     "inputValidation.errorBorder": "#963c47",
 
     "dropdown.foreground": "#7e8093",
-    "dropdown.background": "#1f1f24",
-    "dropdown.listBackground": "#1f1f24",
+    "dropdown.background": "#1a1a1e",
+    "dropdown.listBackground": "#1a1a1e",
 
-    "activityBar.background": "#1f1f24",
+    "activityBar.background": "#1a1a1e",
     "activityBar.foreground": "#7e8093",
 
     "activityBar.inactiveForeground": "#4b4c56",
@@ -317,7 +317,7 @@
     "editor.stackFrameHighlightBackground": "#E2BD3A20",
     "editor.focusedStackFrameHighlightBackground": "#73daca20",
     "debugView.stateLabelForeground": "#7e8093",
-    "debugView.stateLabelBackground": "#1f1f24",
+    "debugView.stateLabelBackground": "#1a1a1e",
     "debugView.valueChangedHighlight": "#415b9caa",
     "debugTokenExpression.name": "#7dcfff",
     "debugTokenExpression.value": "#a0a8c8",
